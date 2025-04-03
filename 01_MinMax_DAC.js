@@ -47,5 +47,7 @@ result();
   Reccurance Relation for number of comparisons = 2T(n/2)+2    
   Time Complexity  = (1.5n - 2) = θ(n)
 
+  stack size= log2(n)
+
    */
 }
